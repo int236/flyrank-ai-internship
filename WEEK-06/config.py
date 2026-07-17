@@ -2,7 +2,7 @@ BASE_URL = "https://books.toscrape.com"
 
 HEADERS = {
     "User-Agent":
-    "NUST-WebScraper/1.0 (Educational Project)"
+    "FLYRANK-WebScraper/1.0 (Educational Project)"
 }
 
 DELAY = 1
